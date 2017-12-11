@@ -72,6 +72,7 @@ bin/
 
 # Visual Studio Code
 browse.VC.db
+.vscode/
 
 doc/html
 *.autosave
